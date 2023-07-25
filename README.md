@@ -1,4 +1,4 @@
-### Olá/Hello/Hola/Hallo, o meu nome é Rodrigo, sou de Portugal e sou estudante de programação
+### Olá/Hello/Hola/Hallo, my name is Rodrigo, im from Portugal and I am a student of programming
 - 🔭 I’m currently working on 2 projects:
   -FutSimulator
   -GravityMan
