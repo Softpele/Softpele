@@ -1,10 +1,5 @@
 <!--
-### Hi there 👋
-
-**Softpele/Softpele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Olá/Hello/Hola/Hallo, o meu nome é Rodrigo, sou de Portugal e sou estudante de programação
 - 🔭 I’m currently working on FutSimulator and GravityMan
 - 🌱 I’m currently learning C#
 -->
