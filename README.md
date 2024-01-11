@@ -6,14 +6,15 @@
 
 - 🎓 &nbsp; Studying programming.
 
-- 🌱 &nbsp; I’m currently learning C# 
+- 🌱 &nbsp; I’m currently learning C# and Java
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# | C++ | C | MySQL
+- 💻 &nbsp; Python | C# | C++ | C | MySQL | Java | VB.Net
 
 - 🌐 &nbsp; HTML | CSS | PHP
 
+- ✏️ &nbsp; Figma | Photoshop
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
